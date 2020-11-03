@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="Ej12.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="88"/>
+        <CursorPos X="29" Y="53"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="delForo\Ej12.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="78"/>
+        <CursorPos X="11" Y="95"/>
+        <UsageCount Value="12"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="Ej12.lpr"/>
+        <Caret Line="102" Column="12" TopLine="78"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Ej12.lpr"/>
+        <Caret Line="110" Column="47" TopLine="103"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Ej12.lpr"/>
+        <Caret Line="120" TopLine="102"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Ej12.lpr"/>
+        <Caret Line="157" Column="29" TopLine="133"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Ej12.lpr"/>
+        <Caret Line="151" Column="11" TopLine="133"/>
+      </Position5>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

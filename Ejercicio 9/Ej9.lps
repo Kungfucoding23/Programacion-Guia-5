@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="Ej9.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="50"/>
+        <CursorPos X="37" Y="48"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\Ejercicio 8\Ej8.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="37"/>
+        <CursorPos X="35" Y="65"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="Delforo\guia5ej9.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="44" Y="52"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="12" HistoryIndex="11">
+      <Position1>
+        <Filename Value="Ej9.lpr"/>
+        <Caret Line="39" Column="15" TopLine="11"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Ej9.lpr"/>
+        <Caret Line="55" Column="21" TopLine="26"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Ej9.lpr"/>
+        <Caret Line="56" TopLine="36"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Ej9.lpr"/>
+        <Caret Line="58" Column="19" TopLine="39"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Ej9.lpr"/>
+        <Caret Line="45" Column="6" TopLine="40"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Ej9.lpr"/>
+        <Caret Line="63" Column="16" TopLine="38"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Ej9.lpr"/>
+        <Caret Line="62" TopLine="50"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Ej9.lpr"/>
+        <Caret Line="56" TopLine="50"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Ej9.lpr"/>
+        <Caret Line="62" TopLine="50"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Ej9.lpr"/>
+        <Caret Line="56" TopLine="50"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Ej9.lpr"/>
+        <Caret Line="77" Column="13" TopLine="49"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Ej9.lpr"/>
+        <Caret Line="41" Column="13" TopLine="41"/>
+      </Position12>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

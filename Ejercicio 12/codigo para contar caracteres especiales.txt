@@ -1,0 +1,14 @@
+  cadena:= 'ho$la$d/ss()*+';
+  i:= 1;
+  cont:= 0;
+  l:= 0;
+  while i <= length(cadena) do
+  begin
+       case cadena[i] of
+            '!'..'/': cont:= cont + 1;
+            'a'..'z': l:= l + 1;
+       end;
+       i:= i + 1;
+  end;
+  writeln('Tiene ',cont,' caracteres especiales');
+  readln();  

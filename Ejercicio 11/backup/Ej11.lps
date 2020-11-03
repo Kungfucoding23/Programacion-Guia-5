@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="Ej11.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="77"/>
+        <CursorPos X="5" Y="90"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\Ejercicio 6\Ej6.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="58" Y="22"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\Ejercicio 6\Del foro\Ej06.pas"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="69" Y="70"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\Probando\Ej4_paradas.lpr"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="4"/>
+        <CursorPos X="37" Y="30"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="delForo\Ej11.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="60"/>
+        <CursorPos X="67" Y="119"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="Ej11.lpr"/>
+        <Caret Line="45" Column="42" TopLine="23"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Ej11.lpr"/>
+        <Caret Line="21" Column="32" TopLine="11"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Ej11.lpr"/>
+        <Caret Line="48" Column="30" TopLine="21"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Ej11.lpr"/>
+        <Caret Line="41" TopLine="20"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Ej11.lpr"/>
+        <Caret Line="139" Column="21" TopLine="110"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Ej11.lpr"/>
+        <Caret Line="125" Column="66" TopLine="110"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Ej11.lpr"/>
+        <Caret Line="126" Column="60" TopLine="110"/>
+      </Position7>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

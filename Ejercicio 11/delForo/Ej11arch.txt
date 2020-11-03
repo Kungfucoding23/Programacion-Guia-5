@@ -1,0 +1,4 @@
+Iara 72 60
+Juan 85.28 80
+Marti 75 86.48
+Paola 50 73
